@@ -104,17 +104,6 @@ code --folder-uri ftp://test/
 ```
 ---
 
-## Donation
-
-If this project help you reduce time to develop, you can give me a cup of coffee :)
-
-### Wechat
-
-<img width="140" alt="Wechat" src="https://raw.githubusercontent.com/liximomo/vscode-sftp/master/assets/wechat.png"/>
-
-### Alipay
-
-<img width="140" alt="Alipay" src="https://raw.githubusercontent.com/liximomo/vscode-sftp/master/assets/alipay.png"/>
 
 ### PayPal
 
